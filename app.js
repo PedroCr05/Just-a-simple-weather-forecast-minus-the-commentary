@@ -1,4 +1,4 @@
-const apiKey = (`e5d9acc2268b4655945163734242609`);
+const apiKey = (`Get the key for file`);
 const button = document.querySelector(`#search-button`);
 
 button.addEventListener(`click`, async ()=> {
